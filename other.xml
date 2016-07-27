@@ -1,0 +1,161 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:D:/_projects/QS/MG/mg-doc/epl-site/eclipse/EPLCodeFormatterV1.2.xml" />
+  </component>
+  <component name="DebuggerSettings">
+    <option name="TRACING_FILTERS_ENABLED" value="true" />
+    <option name="FORCE_CLASSIC_VM" value="true" />
+    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
+    <option name="SKIP_CLASSLOADERS" value="true" />
+    <option name="EVALUATION_DIALOG_TYPE" value="EvaluateFragment" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapNever" />
+    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
+    <filter>
+      <option name="PATTERN" value="com.sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="java.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="javax.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.omg.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="junit.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.intellij.rt.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.yourkit.runtime.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+  </component>
+  <component name="ImportFilteringUsageViewSetting">
+    <option name="SHOW_IMPORTS" value="false" />
+  </component>
+  <component name="PropertiesSeparatorManager">
+    <file url="resourceBundle:file://E:/_projects/EPL/IMF_IDEA/im-commons/src/main/resources/de/volkswagen/epl/constraints/constraints" separator="\u005f" />
+    <file url="resourceBundle:file://E:/_projects/EPL/MG_IDEA/mg-commons/src/main/resources/de/volkswagen/epl/errorCodes/errorCodes" separator="\u002e" />
+    <file url="file://E:/_projects/EPL/Samsara_IDEA/samsara-entities/src/main/resources/de/volkswagen/epl/samsara/entities/validierung/validierung_de.properties" separator="\u002e" />
+    <file url="file://E:/_projects/EPL/JM_IDEA/jm-commons/src/main/resources/de/volkswagen/epl/errorCodes/errorCodes_de.properties" separator="\u002e" />
+    <file url="file://E:/_projects/EPL/JM_IDEA/jm-commons/src/main/resources/de/volkswagen/epl/errorCodes/errorCodes_es.properties" separator="\u002e" />
+    <file url="resourceBundle:file://E:/_projects/EPL/RS_IDEA/rs-commons/src/main/resources/de/volkswagen/epl/validationMessages/validationMessages" separator="\u002e" />
+    <file url="file://E:/_projects/EPL/RS_IDEA/rs-commons/src/main/resources/de/volkswagen/epl/validationMessages/validationMessages_de.properties" separator="\u002e" />
+    <file url="resourceBundle:file://E:/_projects/EPL/JM_IDEA/jm-commons/src/main/resources/de/volkswagen/epl/errorCodes/errorCodes" separator="\u002e" />
+    <file url="resourceBundle:file://E:/_projects/EPL/PS_IDEA/ps-commons/src/main/resources/de/volkswagen/epl/errorCodes/errorCodes" separator="\u002e" />
+    <file url="resourceBundle:file://E:/_projects/EPL/RS_IDEA/rs-commons/src/main/resources/de/volkswagen/epl/errorCodes/errorCodes" separator="\u002e" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://subversion.wob.vw.vwg/EPL2" />
+        <option value="https://subversion.wob.vw.vwg/EPL" />
+        <option value="https://subversion.wob.vw.vwg/EPL/trunk/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://subversion.wob.vw.vwg/EPL2" />
+        <option value="https://subversion.wob.vw.vwg/EPL2/branches" />
+        <option value="https://subversion.wob.vw.vwg/EPL2/trunk" />
+        <option value="https://subversion.wob.vw.vwg/EPL" />
+        <option value="https://subversion.wob.vw.vwg/EPL/trunk/" />
+        <option value="https://subversion.wob.vw.vwg/EPL/trunk/EPL/" />
+      </list>
+    </option>
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="https://subversion.wob.vw.vwg/EPL/trunk/EPL_IM">
+          <value>
+            <set>
+              <option value="E:\_projects\EPL\IMF_IDEA" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://subversion.wob.vw.vwg/EPL2/trunk/EPL_JM">
+          <value>
+            <set>
+              <option value="D:\_projects\EPL\JM_Trunk" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsApplicationSettings" PATCH_STORAGE_LOCATION="C:\Users\emafoer\Desktop">
+    <option name="PATCH_STORAGE_LOCATION" value="C:\Users\emafoer\Desktop" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Ignore spaces" />
+</application>

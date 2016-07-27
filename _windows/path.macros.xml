@@ -1,0 +1,8 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="JRE_SRC" value="D:/_projects/EPL/sw/sun/jdk/1.6.0_26/src.zip" />
+    <macro name="JRE_LIB" value="D:/_projects/EPL/sw/sun/jdk/1.6.0_26/jre/lib/rt.jar" />
+    <macro name="MAVEN_REPOSITORY" value="C:/Users/emafoer/.m2/repository" />
+    <macro name="KOTLIN_BUNDLED" value="D:\Programme\JetBrains\IntelliJ IDEA 15.0.1\plugins\Kotlin\kotlinc" />
+  </component>
+</application>

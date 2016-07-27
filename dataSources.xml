@@ -1,0 +1,40 @@
+<application>
+  <component name="dataSourceStorage" format="xml">
+    <data-source source="LOCAL" name="TEST MG" uuid="971bc183-31a8-4e6c-b4c8-c4d4e0b666ee">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//doidb14.wob.vw.vwg:1550/eplt.wob.vw.vwg</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="TEST PS" uuid="f82f1c99-689d-432c-9a51-fc10738c7acf">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//doidb14.wob.vw.vwg:1550/eplt.wob.vw.vwg</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="TEST RS" uuid="f6e16f72-4355-4f8a-a343-99a857701b5b">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//pf102p029.wob.vw.vwg:1560/eplt.wob.vw.vwg</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="TEST JM" uuid="43cf580a-2035-4444-8203-b25f290d3158">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//doidb14.wob.vw.vwg:1550/eplt.wob.vw.vwg</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="DEV RS" uuid="d6041ab5-460e-4108-baa8-2e71cd3b9e70">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//DBT002.WOB.VW.VWG:1550/EPLJUNIT.WOB.VW.VWG</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="MG_EMAFOER" uuid="869f122f-e61c-4010-a482-a62362f673fa">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//DBT002.WOB.VW.VWG:1550/EPLJUNIT.WOB.VW.VWG</jdbc-url>
+    </data-source>
+  </component>
+</application>

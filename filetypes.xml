@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="csv" type="Native" />
+      <mapping ext="net" type="Native" />
+      <mapping ext="eap" type="Native" />
+      <mapping pattern="sfdf" type="PLAIN_TEXT" />
+      <mapping pattern="sdf" type="PLAIN_TEXT" />
+      <mapping pattern="EPLDEV-5134  RS Auszaehlung der WOSO-Netze in RS und Anzeige an der GUI.sql" type="PLAIN_TEXT" />
+      <mapping ext="t150316508" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
